@@ -5,10 +5,11 @@ In order to enable the service, run solution.py as a python file, in a folder th
 Working with the service:
 
 The service will ask you to enter a command. enter one of the following commands:
-    - keepalive : to check if the service is alive.
-    - userStats : the service will ask you then to enter user_id. enter a user_id to get the Stats.
-    - sessionId : the service will ask you then to enter session_id. enter a session_id to get the requested information.
-    - Kill : (don't forget to capitalize the "K") the service will shut down.
+
+- keepalive : to check if the service is alive.
+- userStats : the service will ask you then to enter user_id. enter a user_id to get the Stats.
+- sessionId : the service will ask you then to enter session_id. enter a session_id to get the requested information.
+- Kill : (don't forget to capitalize the "K") the service will shut down.
 
 
 Improvements:
